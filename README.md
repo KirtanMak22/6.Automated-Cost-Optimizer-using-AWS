@@ -1,13 +1,13 @@
 # 6.Automated-Cost-Optimizer-using-AWS
 
-•	Purpose: To reduce AWS cost by automatically stopping unused EC2 instances using AWS Lambda and CloudWatch
+~ Purpose: To reduce AWS cost by automatically stopping unused EC2 instances using AWS Lambda and CloudWatch
 
 
-•	AWS Services Used:
+~ AWS Services Used:
 
-            AWS Lambda 
-            Amazon EC2 
-            Amazon CloudWatch 
+                        AWS Lambda 
+                        Amazon EC2 
+                        Amazon CloudWatch 
 
 Output:
 <img width="1654" height="523" alt="1" src="https://github.com/user-attachments/assets/dd52b342-7fe3-4860-9be1-6984dfd5ee5c" />
