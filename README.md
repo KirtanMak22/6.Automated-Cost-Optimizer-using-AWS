@@ -5,12 +5,9 @@
 
 •	AWS Services Used:
 
-
-•	AWS Lambda 
-
-•	Amazon EC2 
-
-•	Amazon CloudWatch 
+            AWS Lambda 
+            Amazon EC2 
+            Amazon CloudWatch 
 
 Output:
 <img width="1654" height="523" alt="1" src="https://github.com/user-attachments/assets/dd52b342-7fe3-4860-9be1-6984dfd5ee5c" />
